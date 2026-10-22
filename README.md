@@ -4,14 +4,14 @@ Welcome to my GitHub! I am a Computer Science Junior graduating from Georgia Sou
 
 ### 🔍 About me
 
-- **Student**: Computer Science major at GSU. I am especially enjoying Discrete Structures, Calculus 2, and Linear Algebra.
+- **Student**: IT major with a focus in Data Science. Switched majors recently, so currently in some lower level courses. I am looking forward to getting into some harder classes in the coming semesters.
 - **Tutor**: As a math and programming tutor with GSU, I constantly have to restructure problems and apply critical thinking skills to achieve goals in tandem with others.
-- **Coder**: Experienced in the Java language
+- **Coder**: Experienced in Java, JavaScript, Python, SQL, and AWS environments such as S3 and RedShift. 
 
 ### 🛠 What I'm currently working on
 
-- Actively expanding my knowledge of new programming languages and tools such as **C**, **C++**, **C#**, **Rust**, **JavaScript**, **Python**, and CLI applications such as **Bash** through project development.
-- Applying mathematical theory and skills to computing and data science.
+- Working on applying my coding expertise to **real projects**. I am learning how to design systems that effectively use my language of focus (Python) to conduct data, drive decisions, and perform actions. 
+- Applying statistical and mathematical theory and skills to data science.
 - Furthering my knowledge in machine learning and leveraging AI in my work.
 
 ### 📬 Please reach out!
